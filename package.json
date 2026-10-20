@@ -1,0 +1,45 @@
+{
+    "$schema": "https://json.schemastore.org/package.json",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@headlessui/react": "^2.0.0",
+        "@inertiajs/react": "^2.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@tailwindcss/vite": "^4.1.8",
+        "@vitejs/plugin-react": "^4.2.0",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.8.2",
+        "concurrently": "^9.0.1",
+        "laravel-vite-plugin": "^1.2.0",
+        "postcss": "^8.4.31",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "tailwindcss": "^3.2.1",
+        "vite": "^6.2.4"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^7.0.0",
+        "@fortawesome/free-brands-svg-icons": "^7.1.0",
+        "@fortawesome/free-solid-svg-icons": "^7.1.0",
+        "@fortawesome/react-fontawesome": "^0.2.6",
+        "@inertiajs/react": "^2.0.11",
+        "@tinymce/tinymce-react": "^6.3.0",
+        "@tippyjs/react": "^4.2.6",
+        "@uiw/react-md-editor": "^4.0.11",
+        "chart.js": "^4.5.1",
+        "lucide-react": "^0.561.0",
+        "react": "^19.1.0",
+        "react-beautiful-dnd": "^13.1.1",
+        "react-chartjs-2": "^5.3.1",
+        "react-datepicker": "^9.1.0",
+        "react-dom": "^19.1.0",
+        "react-icons": "^5.5.0",
+        "react-tooltip": "^5.29.1",
+        "tinymce": "^8.0.1"
+    }
+}
